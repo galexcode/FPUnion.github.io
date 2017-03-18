@@ -29,9 +29,6 @@ float: right;
 }
 
 @media screen and (min-width:1024px){
-    #tweete {
-        display:block;
-    }
     #posts {
 		padding-right: 240px;
 	}
@@ -39,7 +36,10 @@ float: right;
 		padding-right: 240px;
 	}
 }
-@media screen and (min-width:1024px){
+@media screen and (min-width:1560px){
+	#tweete {
+        display:block;
+   	}
 	.button {
   		font: bold 25px Arial;
   		text-decoration: none;
