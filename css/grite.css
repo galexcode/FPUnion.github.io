@@ -10,13 +10,11 @@ body {
 }
 
 .button {
-  /*font: 16px Arial Narrow;*/
-	font: bold 25px Arial;
+  font: 16px Arial Narrow;
   text-decoration: none;
   background-color: #0E6655;
   color: #333333;
-  /*padding: 10px 5px 10px 5px;*/
-	padding: 19px 60px 19px 60px;
+  padding: 10px 5px 10px 5px;
   border-top: 1px solid #0E6655;
   border-right: 1px solid #0E6655;
   border-bottom: 1px solid #0E6655;
@@ -63,10 +61,8 @@ body {
 }
 
 #navbar {
-  /*padding-top: 10px;
-  padding-bottom: 10px;*/
-	padding-top: 20px;
-  		padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: lightgreen;
   top: 10px;
   width: 100%;
