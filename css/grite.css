@@ -63,8 +63,10 @@ body {
 }
 
 #navbar {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  /*padding-top: 10px;
+  padding-bottom: 10px;*/
+	padding-top: 20px;
+  		padding-bottom: 20px;
   background-color: lightgreen;
   top: 10px;
   width: 100%;
