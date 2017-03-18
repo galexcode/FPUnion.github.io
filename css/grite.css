@@ -28,11 +28,8 @@ float: right;
 	display: none;
 }
 
-@media screen and (min-width:1560px){
-    
-}
-@media screen and (min-width:500px){
-	#posts {
+@media screen and (min-width:1024px){
+    	#posts {
 		padding-right: 240px;
 	}
 	#old-posts {
@@ -41,6 +38,8 @@ float: right;
 	#tweete {
         	display:block;
    	}
+}
+@media screen and (min-width:1560px){
 	.button {
   		font: bold 25px Arial;
   		text-decoration: none;
