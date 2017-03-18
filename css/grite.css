@@ -39,7 +39,7 @@ float: right;
 		padding-right: 240px;
 	}
 }
-@media screen and (min-width:1560px){
+@media screen and (min-width:1024px){
 	.button {
   		font: bold 25px Arial;
   		text-decoration: none;
