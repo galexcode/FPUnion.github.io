@@ -41,5 +41,5 @@ var config = {
            'd8451c126fef1aed22c0d2d672574187',
            '528adda343c9bf77de646a85a916d402'],
   atOnce: 5,
-  footerText: "Our twitter <a href=\"https://twitter.com/sankha93\">@cestlaluttefinale</a>."
+  footerText: "Our twitter <a href=\"https://twitter.com/freepressunion_\">@freepressunion_</a>."
 };
