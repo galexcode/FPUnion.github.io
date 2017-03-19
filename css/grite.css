@@ -1,24 +1,24 @@
 body {
-  	text-align: center;
-  	color: #003D40;
+	text-align: center;
+	color: #003D40;
 }
 
 .container {
-  width: 80%;
-  padding-top: 60px;
-  height: 100%;
+	width: 80%;
+	padding-top: 60px;
+	height: 100%;
 }
 
 .button {
-  font: 16px Helvetica;
-  text-decoration: none;
-  background-color: #0E6655;
-  color: #333333;
-  padding: 20px 5px 20px 5px;
-  border-top: 1px solid #0E6655;
-  border-right: 1px solid #0E6655;
-  border-bottom: 1px solid #0E6655;
-  border-left: 1px solid #0E6655;
+	font: 16px Helvetica;
+	text-decoration: none;
+	background-color: #0E6655;
+	color: #333333;
+	padding: 20px 5px 20px 5px;
+	border-top: 1px solid #0E6655;
+	border-right: 1px solid #0E6655;
+	border-bottom: 1px solid #0E6655;
+	border-left: 1px solid #0E6655;
 }
 
 #title-page {
@@ -43,6 +43,7 @@ body {
         	display:block;
    	}
 }
+
 @media screen and (min-width:1560px){
 	.button {
   		font: bold 25px Arial;
@@ -65,19 +66,19 @@ body {
 }
 
 #navbar {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: lightgreen;
-  top: 10px;
-  width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: lightgreen;
+	top: 10px;
+	width: 100%;
 }    
 
 #navbar.stick {
-    margin-top: 0;
-    position: fixed;
-    z-index = 10000;
-    width: 80%;
-    top: 0;
+	margin-top: 0;
+	position: fixed;
+	z-index = 10000;
+	width: 80%;
+	top: 0;
 }
 
 .post {
@@ -86,46 +87,48 @@ body {
 }
 
 .date {
-  font-style: italic;
-  font-size: 14px;
-  text-align: left;
+	font-style: italic;
+	font-size: 14px;
+	text-align: left;
 }
 
 .author {
-  font-style: italic;
-  font-size: 14px;
-  text-align: left;
+	font-style: italic;
+	font-size: 14px;
+	text-align: left;
 }
 
 #loader{
-  position: fixed;
-  top: 0;
-  padding: 10px;
-  font-style: italic;
-  font-size: 13px;
+	position: fixed;
+	top: 0;
+	padding: 10px;
+	font-style: italic;
+	font-size: 13px;
 }
 
-
 .footer {
-  padding-top: 20px;
+	padding-top: 20px;
 }
 
 a:link {
 	color: #AED6F1;
 }
+
 a:active {
 	color: #AED6F1;
 }
+
 a:visited {
 	color: #AED6F1;
 }
+
 a:hover {
 	color: #AED6F1;
 	text-decoration: none; 
 }
 
 #footer-grite {
-  padding-top: 20px;
-  font-size: 12px;
-  padding-bottom: 10px
+	padding-top: 20px;
+	font-size: 12px;
+	padding-bottom: 10px
 }
