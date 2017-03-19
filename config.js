@@ -35,5 +35,5 @@ var config = {
            '528adda343c9bf77de646a85a916d402'],
   atOnce: 5,
   footerText: "Our twitter <a href=\"/terra/index.html">@freepressunion_</a>."
-  //footerText: "Our twitter <a href=\"https://twitter.com/freepressunion_\">@freepressunion_</a>."
+
 };
