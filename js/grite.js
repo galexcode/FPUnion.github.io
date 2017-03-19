@@ -17,7 +17,7 @@ function setNavbar() {
   }
   } else {
   for (var i = 0; i < config.navbarS.length; i++) {
-    var dom = '<a href="' + config.navbarS[i].link + '" class="button">' + config.navbarS[i].text + '</a>';
+    var dom = '<a href="' + config.navbar[i].link + '" class="button">' + config.navbar[i].text + '</a>'; //add S
     if (i != 0)
       $('<span> • </span>').appendTo('#navbar');
     $(dom).appendTo('#navbar');
