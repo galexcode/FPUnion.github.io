@@ -30,8 +30,7 @@ var config = {
            '528adda343c9bf77de646a85a916d402',
            'd8451c126fef1aed22c0d2d672574187',
            '528adda343c9bf77de646a85a916d402',
-           'f977cd95d483cf1c20f68a752616c0ed',
-  			'd8451c126fef1aed22c0d2d672574187'],
+           'f977cd95d483cf1c20f68a752616c0ed'],
   atOnce: 5,
   footerText: "Our twitter <a href=\"https://twitter.com/freepressunion_\">@freepressunion_</a>."
 };
