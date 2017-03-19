@@ -1,8 +1,7 @@
 body {
 	text-align: center;
 	color: #003D40;
-	font: Arial Narrow;
-	font-family: 'Jim Nightshade', cursive;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .container {
@@ -24,11 +23,8 @@ body {
 }
 
 #title-page {
-	font: bold 96px Footlight Note MT;
-	border-top: 1px;
-	border-right: 1px;
-	border-bottom: 1px;
-	border-left: 1px;
+	font-size: 96px;
+	font-family: 'Diplomata SC', cursive;
 }
 
 #tweete {
