@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	color: #003D40;
+	font: Arial;
 }
 
 .container {
@@ -21,9 +22,9 @@ body {
 	border-left: 1px solid #0E6655;
 }
 
-/*#title-page {
-	font-size: 96px;
-}*/
+#title-page {
+	font: 96px Arial Black;
+}
 
 #tweete {
 	float: right;
